@@ -1,5 +1,13 @@
 # syn_ant
 
+<ol>
+<li><a href="LREC-2022/paper.pdf">LREC-2022 Paper</a></li>
+<li><a href="LREC-2022/LREC-2022.pptx">Slides</a></li>
+<li><a href="LREC-2022/LREC-2022-poster.pdf">Poster</a></li>
+<li><a href="https://github.com/kwchurch/gft">Talk</a></li>
+<li>See also <a href="https://github.com/kwchurch/gft">gft (general fine tuning)</a></li>
+</ol>
+
  ```sh
 # example of inference
 # model should be a checkpoint from one of the fine-tuning methods below
